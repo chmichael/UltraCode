@@ -1,6 +1,20 @@
 # UltraCode
 Assembler & Parallel optimized 64-bit RTL Replacement for Delphi and Windows/Mac/Linux
 
+CPU Tagets:
+PASCAL
+SSE3
+AVX
+
+Operating Systems:
+Windows
+MacOS
+Linux
+
+GPU Targets:
+OpenCL
+Vulkan
+
 Please use the following Structure for filenames for Single Thread Targets:
 UC64."Routine"."SIMD"."OS".pas = UC64.Pos.AVX.Win.pas, UC64.Pos.AVX.Mac.pas, UC64.Pos.AVX.Linux.pas
 
