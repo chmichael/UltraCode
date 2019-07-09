@@ -2,10 +2,10 @@
 Assembler & Parallel optimized 64-bit RTL Replacement for Delphi and Windows/Mac/Linux
 
 CPU Tagets:
-PASCAL, SSE3, AVX
+PASCAL, SSE3, AVX, ARM
 
 Operating Systems:
-Windows, MacOS, Linux
+Windows, MacOS, Linux, Android
 
 GPU Targets:
 OpenCL, Vulkan
