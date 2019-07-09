@@ -5,7 +5,7 @@ CPU Tagets:
 PASCAL, SSE3, AVX, ARM
 
 Operating Systems:
-Windows, MacOS, Linux, Android
+Windows, MacOS, Linux, IOS, Android
 
 GPU Targets:
 OpenCL, Vulkan
