@@ -1,4 +1,4 @@
-# UltraCode
+# UltraCode64
 Assembler & Parallel optimized 64-bit RTL Replacement for Delphi and Windows/Mac/Linux
 
 CPU Tagets:
