@@ -1,4 +1,4 @@
-unit FastcodeCPUID;
+unit Ultra.Code.CPUID;
 
 {***** BEGIN LICENSE BLOCK *****
  Version: MPL 1.1
