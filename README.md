@@ -1,5 +1,5 @@
 # UltraCode64
-Assembler & Parallel optimized 64-bit RTL Replacement for Delphi and Windows/Mac/Linux
+Assembler & Parallel optimized RTL Replacement for Delphi/Free Pascal for Windows/Mac/Linux/iOS/Android
 
 CPU Tagets:
 PASCAL, SSE3, AVX, ARM
